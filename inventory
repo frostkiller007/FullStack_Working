@@ -1,6 +1,6 @@
 [ansiblecontrol]
 controlnode ansible_host=54.241.145.156
 [webservers]
-web1 ansible_host=18.144.3.16
-web2 ansible_host=13.57.255.103
+node1 ansible_host=18.144.3.16
+node2 ansible_host=13.57.255.103
 
